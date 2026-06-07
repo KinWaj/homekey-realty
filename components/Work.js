@@ -14,8 +14,8 @@ export default function Work() {
           <img
             src="/images/work.webp"
             alt="Modern gabled houses with large triangular glass facades at sunset"
-            width={800}
-            height={600}
+            width={720}
+            height={540}
             className="w-full rounded-xl object-cover shadow-card"
             loading="lazy"
           />

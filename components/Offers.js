@@ -20,8 +20,8 @@ export default function Offers() {
               <img
                 src={o.image}
                 alt={`${o.title} in ${o.location}`}
-                width={800}
-                height={600}
+                width={640}
+                height={480}
                 className="h-52 w-full object-cover"
                 loading="lazy"
               />

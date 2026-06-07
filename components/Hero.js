@@ -4,8 +4,8 @@ export default function Hero() {
       <img
         src="/images/hero.webp"
         alt="Suburban family homes on a quiet residential street"
-        width={1600}
-        height={900}
+        width={1280}
+        height={720}
         className="absolute inset-0 -z-10 h-full w-full object-cover"
         fetchPriority="high"
       />
